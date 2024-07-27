@@ -31,7 +31,7 @@
 
 
 ## `✨Main Developer❤️` 
-<a href="https://github.com/manulofficial7"><img src="https://telegra.ph/file/cd8b263be25bcd26991d3.jpg" width="350" height="500" alt="manulofficial7"/></a>
+<a href="https://github.com/manulofficial7"><img src="https://telegra.ph/file/cd8b263be25bcd26991d3.jpg" width="380" height="500" alt="manulofficial7"/></a>
 
 <!---
 samsungdew/samsungdew is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
