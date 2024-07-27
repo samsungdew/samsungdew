@@ -33,7 +33,7 @@
 ## `✨Main Developer❤️` 
 <a href="https://github.com/manulofficial7"><img src="https://telegra.ph/file/cd8b263be25bcd26991d3.jpg" width="385" height="500" alt="manulofficial7"/></a>
 
-<!---
-samsungdew/samsungdew is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+https://github.com/manulofficial7/Manu-MD-V6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
